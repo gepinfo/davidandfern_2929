@@ -1,0 +1,7 @@
+{
+  "name": "davidandfern",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
